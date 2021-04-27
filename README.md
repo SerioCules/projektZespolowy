@@ -3,7 +3,9 @@
 If you run application from a command line, remember to prepend a `mvn` to the command.
 ///////////////////////////////////////////////////////////////
 
-Testy:
+Testy robione były na stronie Amazon Web Services - metoda JMeter.
+
+
 ![test1](https://user-images.githubusercontent.com/62927207/116153489-ade42b80-a6e7-11eb-8be1-8cfc9fdb5701.png)
 ![test2](https://user-images.githubusercontent.com/62927207/116153491-b0468580-a6e7-11eb-8198-6db7787ab1ad.png)
 
